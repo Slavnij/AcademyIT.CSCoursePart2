@@ -1,0 +1,6 @@
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex1\Starter\BinaryTree\bin\Debug\BinaryTree.dll
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex1\Starter\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex1\Starter\BinaryTree\obj\x86\Debug\BinaryTree.csproj.AssemblyReference.cache
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex1\Starter\BinaryTree\obj\x86\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex1\Starter\BinaryTree\obj\x86\Debug\BinaryTree.dll
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex1\Starter\BinaryTree\obj\x86\Debug\BinaryTree.pdb

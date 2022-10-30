@@ -1,0 +1,25 @@
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\TestHarness\bin\Debug\TestHarness.exe
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\TestHarness\bin\Debug\TestHarness.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\TestHarness\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\TestHarness\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\TestHarness\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\TestHarness\obj\x86\Debug\TestHarness.exe
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\TestHarness\obj\x86\Debug\TestHarness.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\TestHarness.exe
+E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\TestHarness.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\TestHarness.exe
+E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\TestHarness.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\TestHarness.exe.config
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\TestHarness.exe
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\TestHarness.pdb
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\BinaryTree.dll
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\BinaryTree.pdb
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\TestHarness.csproj.AssemblyReference.cache
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\TestHarness.csproj.SuggestedBindingRedirects.cache
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\TestHarness.csproj.CoreCompileInputs.cache
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\TestHarness.csproj.CopyComplete
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\TestHarness.exe
+D:\IT Академия\CSCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\TestHarness.pdb
