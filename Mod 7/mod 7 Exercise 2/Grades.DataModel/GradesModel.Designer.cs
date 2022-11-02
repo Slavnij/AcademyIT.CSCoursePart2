@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\admin\Downloads\20483\Allfiles\Mod07\Labfiles\Starter\Exercise 2\Grades.DataModel\GradesModel.edmx'. 
+﻿// T4 code generation is enabled for model 'D:\repos\GAZ.AcademyIT.CSCoursePart2\Mod 7\mod 7 Exercise 2\Grades.DataModel\GradesModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
