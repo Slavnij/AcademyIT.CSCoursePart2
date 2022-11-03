@@ -1,0 +1,7 @@
+D:\ITAcademy\CSCourse\Mod12\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.Web.Models.dll.config
+D:\ITAcademy\CSCourse\Mod12\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.Web.Models.dll
+D:\ITAcademy\CSCourse\Mod12\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.Web.Models.pdb
+D:\ITAcademy\CSCourse\Mod12\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.AssemblyReference.cache
+D:\ITAcademy\CSCourse\Mod12\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+D:\ITAcademy\CSCourse\Mod12\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.Web.Models.dll
+D:\ITAcademy\CSCourse\Mod12\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.Web.Models.pdb
