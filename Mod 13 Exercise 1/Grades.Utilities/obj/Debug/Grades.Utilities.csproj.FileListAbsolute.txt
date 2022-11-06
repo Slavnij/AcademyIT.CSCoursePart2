@@ -1,0 +1,12 @@
+D:\ITAcademy\CSCourse\Mod13\Labfiles\Starter\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.dll
+D:\ITAcademy\CSCourse\Mod13\Labfiles\Starter\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.pdb
+D:\ITAcademy\CSCourse\Mod13\Labfiles\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.csproj.AssemblyReference.cache
+D:\ITAcademy\CSCourse\Mod13\Labfiles\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.csproj.CoreCompileInputs.cache
+D:\ITAcademy\CSCourse\Mod13\Labfiles\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.dll
+D:\ITAcademy\CSCourse\Mod13\Labfiles\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.pdb
+D:\Starter\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.dll
+D:\Starter\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.pdb
+D:\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.csproj.AssemblyReference.cache
+D:\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.csproj.CoreCompileInputs.cache
+D:\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.dll
+D:\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.pdb
